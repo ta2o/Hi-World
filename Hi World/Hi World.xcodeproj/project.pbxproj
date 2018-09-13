@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EF46122B213933A100A77D24 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF46122A213933A100A77D24 /* AppDelegate.swift */; };
-		EF46122D213933A100A77D24 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF46122C213933A100A77D24 /* ViewController.swift */; };
-		EF461230213933A100A77D24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF46122E213933A100A77D24 /* Main.storyboard */; };
-		EF461232213933A200A77D24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF461231213933A200A77D24 /* Assets.xcassets */; };
-		EF461235213933A200A77D24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF461233213933A200A77D24 /* LaunchScreen.storyboard */; };
-		EF461240213933A200A77D24 /* Hi_WOLDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF46123F213933A200A77D24 /* Hi_WOLDTests.swift */; };
-		EF46124B213933A200A77D24 /* Hi_WOLDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF46124A213933A200A77D24 /* Hi_WOLDUITests.swift */; };
+		EFA8BB88213BC3E200ED6B59 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA8BB87213BC3E200ED6B59 /* AppDelegate.swift */; };
+		EFA8BB8A213BC3E200ED6B59 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA8BB89213BC3E200ED6B59 /* ViewController.swift */; };
+		EFA8BB8D213BC3E200ED6B59 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFA8BB8B213BC3E200ED6B59 /* Main.storyboard */; };
+		EFA8BB8F213BC3E400ED6B59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFA8BB8E213BC3E400ED6B59 /* Assets.xcassets */; };
+		EFA8BB92213BC3E400ED6B59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFA8BB90213BC3E400ED6B59 /* LaunchScreen.storyboard */; };
+		EFA8BB9D213BC3E400ED6B59 /* Hi_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA8BB9C213BC3E400ED6B59 /* Hi_WorldTests.swift */; };
+		EFA8BBA8213BC3E400ED6B59 /* Hi_WorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA8BBA7213BC3E400ED6B59 /* Hi_WorldUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		EF46123C213933A200A77D24 /* PBXContainerItemProxy */ = {
+		EFA8BB99213BC3E400ED6B59 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = EF46121F213933A100A77D24 /* Project object */;
+			containerPortal = EFA8BB7C213BC3E200ED6B59 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EF461226213933A100A77D24;
-			remoteInfo = "Hi WOLD";
+			remoteGlobalIDString = EFA8BB83213BC3E200ED6B59;
+			remoteInfo = "Hi World";
 		};
-		EF461247213933A200A77D24 /* PBXContainerItemProxy */ = {
+		EFA8BBA4213BC3E400ED6B59 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = EF46121F213933A100A77D24 /* Project object */;
+			containerPortal = EFA8BB7C213BC3E200ED6B59 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EF461226213933A100A77D24;
-			remoteInfo = "Hi WOLD";
+			remoteGlobalIDString = EFA8BB83213BC3E200ED6B59;
+			remoteInfo = "Hi World";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EF461227213933A100A77D24 /* Hi WOLD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hi WOLD.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF46122A213933A100A77D24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EF46122C213933A100A77D24 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		EF46122F213933A100A77D24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EF461231213933A200A77D24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EF461234213933A200A77D24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		EF461236213933A200A77D24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EF46123B213933A200A77D24 /* Hi WOLDTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hi WOLDTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF46123F213933A200A77D24 /* Hi_WOLDTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hi_WOLDTests.swift; sourceTree = "<group>"; };
-		EF461241213933A200A77D24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EF461246213933A200A77D24 /* Hi WOLDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hi WOLDUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF46124A213933A200A77D24 /* Hi_WOLDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hi_WOLDUITests.swift; sourceTree = "<group>"; };
-		EF46124C213933A200A77D24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFA8BB84213BC3E200ED6B59 /* Hi World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hi World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFA8BB87213BC3E200ED6B59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EFA8BB89213BC3E200ED6B59 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EFA8BB8C213BC3E200ED6B59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EFA8BB8E213BC3E400ED6B59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EFA8BB91213BC3E400ED6B59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EFA8BB93213BC3E400ED6B59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFA8BB98213BC3E400ED6B59 /* Hi WorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hi WorldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFA8BB9C213BC3E400ED6B59 /* Hi_WorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hi_WorldTests.swift; sourceTree = "<group>"; };
+		EFA8BB9E213BC3E400ED6B59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFA8BBA3213BC3E400ED6B59 /* Hi WorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hi WorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EFA8BBA7213BC3E400ED6B59 /* Hi_WorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hi_WorldUITests.swift; sourceTree = "<group>"; };
+		EFA8BBA9213BC3E400ED6B59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EF461224213933A100A77D24 /* Frameworks */ = {
+		EFA8BB81213BC3E200ED6B59 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF461238213933A200A77D24 /* Frameworks */ = {
+		EFA8BB95213BC3E400ED6B59 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF461243213933A200A77D24 /* Frameworks */ = {
+		EFA8BBA0213BC3E400ED6B59 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,137 +74,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EF46121E213933A100A77D24 = {
+		EFA8BB7B213BC3E200ED6B59 = {
 			isa = PBXGroup;
 			children = (
-				EF461229213933A100A77D24 /* Hi WOLD */,
-				EF46123E213933A200A77D24 /* Hi WOLDTests */,
-				EF461249213933A200A77D24 /* Hi WOLDUITests */,
-				EF461228213933A100A77D24 /* Products */,
+				EFA8BB86213BC3E200ED6B59 /* Hi World */,
+				EFA8BB9B213BC3E400ED6B59 /* Hi WorldTests */,
+				EFA8BBA6213BC3E400ED6B59 /* Hi WorldUITests */,
+				EFA8BB85213BC3E200ED6B59 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		EF461228213933A100A77D24 /* Products */ = {
+		EFA8BB85213BC3E200ED6B59 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EF461227213933A100A77D24 /* Hi WOLD.app */,
-				EF46123B213933A200A77D24 /* Hi WOLDTests.xctest */,
-				EF461246213933A200A77D24 /* Hi WOLDUITests.xctest */,
+				EFA8BB84213BC3E200ED6B59 /* Hi World.app */,
+				EFA8BB98213BC3E400ED6B59 /* Hi WorldTests.xctest */,
+				EFA8BBA3213BC3E400ED6B59 /* Hi WorldUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EF461229213933A100A77D24 /* Hi WOLD */ = {
+		EFA8BB86213BC3E200ED6B59 /* Hi World */ = {
 			isa = PBXGroup;
 			children = (
-				EF46122A213933A100A77D24 /* AppDelegate.swift */,
-				EF46122C213933A100A77D24 /* ViewController.swift */,
-				EF46122E213933A100A77D24 /* Main.storyboard */,
-				EF461231213933A200A77D24 /* Assets.xcassets */,
-				EF461233213933A200A77D24 /* LaunchScreen.storyboard */,
-				EF461236213933A200A77D24 /* Info.plist */,
+				EFA8BB87213BC3E200ED6B59 /* AppDelegate.swift */,
+				EFA8BB89213BC3E200ED6B59 /* ViewController.swift */,
+				EFA8BB8B213BC3E200ED6B59 /* Main.storyboard */,
+				EFA8BB8E213BC3E400ED6B59 /* Assets.xcassets */,
+				EFA8BB90213BC3E400ED6B59 /* LaunchScreen.storyboard */,
+				EFA8BB93213BC3E400ED6B59 /* Info.plist */,
 			);
-			path = "Hi WOLD";
+			path = "Hi World";
 			sourceTree = "<group>";
 		};
-		EF46123E213933A200A77D24 /* Hi WOLDTests */ = {
+		EFA8BB9B213BC3E400ED6B59 /* Hi WorldTests */ = {
 			isa = PBXGroup;
 			children = (
-				EF46123F213933A200A77D24 /* Hi_WOLDTests.swift */,
-				EF461241213933A200A77D24 /* Info.plist */,
+				EFA8BB9C213BC3E400ED6B59 /* Hi_WorldTests.swift */,
+				EFA8BB9E213BC3E400ED6B59 /* Info.plist */,
 			);
-			path = "Hi WOLDTests";
+			path = "Hi WorldTests";
 			sourceTree = "<group>";
 		};
-		EF461249213933A200A77D24 /* Hi WOLDUITests */ = {
+		EFA8BBA6213BC3E400ED6B59 /* Hi WorldUITests */ = {
 			isa = PBXGroup;
 			children = (
-				EF46124A213933A200A77D24 /* Hi_WOLDUITests.swift */,
-				EF46124C213933A200A77D24 /* Info.plist */,
+				EFA8BBA7213BC3E400ED6B59 /* Hi_WorldUITests.swift */,
+				EFA8BBA9213BC3E400ED6B59 /* Info.plist */,
 			);
-			path = "Hi WOLDUITests";
+			path = "Hi WorldUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EF461226213933A100A77D24 /* Hi WOLD */ = {
+		EFA8BB83213BC3E200ED6B59 /* Hi World */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EF46124F213933A200A77D24 /* Build configuration list for PBXNativeTarget "Hi WOLD" */;
+			buildConfigurationList = EFA8BBAC213BC3E400ED6B59 /* Build configuration list for PBXNativeTarget "Hi World" */;
 			buildPhases = (
-				EF461223213933A100A77D24 /* Sources */,
-				EF461224213933A100A77D24 /* Frameworks */,
-				EF461225213933A100A77D24 /* Resources */,
+				EFA8BB80213BC3E200ED6B59 /* Sources */,
+				EFA8BB81213BC3E200ED6B59 /* Frameworks */,
+				EFA8BB82213BC3E200ED6B59 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Hi WOLD";
-			productName = "Hi WOLD";
-			productReference = EF461227213933A100A77D24 /* Hi WOLD.app */;
+			name = "Hi World";
+			productName = "Hi World";
+			productReference = EFA8BB84213BC3E200ED6B59 /* Hi World.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EF46123A213933A200A77D24 /* Hi WOLDTests */ = {
+		EFA8BB97213BC3E400ED6B59 /* Hi WorldTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EF461252213933A200A77D24 /* Build configuration list for PBXNativeTarget "Hi WOLDTests" */;
+			buildConfigurationList = EFA8BBAF213BC3E400ED6B59 /* Build configuration list for PBXNativeTarget "Hi WorldTests" */;
 			buildPhases = (
-				EF461237213933A200A77D24 /* Sources */,
-				EF461238213933A200A77D24 /* Frameworks */,
-				EF461239213933A200A77D24 /* Resources */,
+				EFA8BB94213BC3E400ED6B59 /* Sources */,
+				EFA8BB95213BC3E400ED6B59 /* Frameworks */,
+				EFA8BB96213BC3E400ED6B59 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				EF46123D213933A200A77D24 /* PBXTargetDependency */,
+				EFA8BB9A213BC3E400ED6B59 /* PBXTargetDependency */,
 			);
-			name = "Hi WOLDTests";
-			productName = "Hi WOLDTests";
-			productReference = EF46123B213933A200A77D24 /* Hi WOLDTests.xctest */;
+			name = "Hi WorldTests";
+			productName = "Hi WorldTests";
+			productReference = EFA8BB98213BC3E400ED6B59 /* Hi WorldTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EF461245213933A200A77D24 /* Hi WOLDUITests */ = {
+		EFA8BBA2213BC3E400ED6B59 /* Hi WorldUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EF461255213933A200A77D24 /* Build configuration list for PBXNativeTarget "Hi WOLDUITests" */;
+			buildConfigurationList = EFA8BBB2213BC3E400ED6B59 /* Build configuration list for PBXNativeTarget "Hi WorldUITests" */;
 			buildPhases = (
-				EF461242213933A200A77D24 /* Sources */,
-				EF461243213933A200A77D24 /* Frameworks */,
-				EF461244213933A200A77D24 /* Resources */,
+				EFA8BB9F213BC3E400ED6B59 /* Sources */,
+				EFA8BBA0213BC3E400ED6B59 /* Frameworks */,
+				EFA8BBA1213BC3E400ED6B59 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				EF461248213933A200A77D24 /* PBXTargetDependency */,
+				EFA8BBA5213BC3E400ED6B59 /* PBXTargetDependency */,
 			);
-			name = "Hi WOLDUITests";
-			productName = "Hi WOLDUITests";
-			productReference = EF461246213933A200A77D24 /* Hi WOLDUITests.xctest */;
+			name = "Hi WorldUITests";
+			productName = "Hi WorldUITests";
+			productReference = EFA8BBA3213BC3E400ED6B59 /* Hi WorldUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		EF46121F213933A100A77D24 /* Project object */ = {
+		EFA8BB7C213BC3E200ED6B59 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
 				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "tatsuo sugimoto";
 				TargetAttributes = {
-					EF461226213933A100A77D24 = {
+					EFA8BB83213BC3E200ED6B59 = {
 						CreatedOnToolsVersion = 9.4.1;
 					};
-					EF46123A213933A200A77D24 = {
+					EFA8BB97213BC3E400ED6B59 = {
 						CreatedOnToolsVersion = 9.4.1;
-						TestTargetID = EF461226213933A100A77D24;
+						TestTargetID = EFA8BB83213BC3E200ED6B59;
 					};
-					EF461245213933A200A77D24 = {
+					EFA8BBA2213BC3E400ED6B59 = {
 						CreatedOnToolsVersion = 9.4.1;
-						TestTargetID = EF461226213933A100A77D24;
+						TestTargetID = EFA8BB83213BC3E200ED6B59;
 					};
 				};
 			};
-			buildConfigurationList = EF461222213933A100A77D24 /* Build configuration list for PBXProject "Hi WOLD" */;
+			buildConfigurationList = EFA8BB7F213BC3E200ED6B59 /* Build configuration list for PBXProject "Hi World" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -212,37 +212,37 @@
 				en,
 				Base,
 			);
-			mainGroup = EF46121E213933A100A77D24;
-			productRefGroup = EF461228213933A100A77D24 /* Products */;
+			mainGroup = EFA8BB7B213BC3E200ED6B59;
+			productRefGroup = EFA8BB85213BC3E200ED6B59 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EF461226213933A100A77D24 /* Hi WOLD */,
-				EF46123A213933A200A77D24 /* Hi WOLDTests */,
-				EF461245213933A200A77D24 /* Hi WOLDUITests */,
+				EFA8BB83213BC3E200ED6B59 /* Hi World */,
+				EFA8BB97213BC3E400ED6B59 /* Hi WorldTests */,
+				EFA8BBA2213BC3E400ED6B59 /* Hi WorldUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EF461225213933A100A77D24 /* Resources */ = {
+		EFA8BB82213BC3E200ED6B59 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF461235213933A200A77D24 /* LaunchScreen.storyboard in Resources */,
-				EF461232213933A200A77D24 /* Assets.xcassets in Resources */,
-				EF461230213933A100A77D24 /* Main.storyboard in Resources */,
+				EFA8BB92213BC3E400ED6B59 /* LaunchScreen.storyboard in Resources */,
+				EFA8BB8F213BC3E400ED6B59 /* Assets.xcassets in Resources */,
+				EFA8BB8D213BC3E200ED6B59 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF461239213933A200A77D24 /* Resources */ = {
+		EFA8BB96213BC3E400ED6B59 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF461244213933A200A77D24 /* Resources */ = {
+		EFA8BBA1213BC3E400ED6B59 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -252,59 +252,59 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EF461223213933A100A77D24 /* Sources */ = {
+		EFA8BB80213BC3E200ED6B59 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF46122D213933A100A77D24 /* ViewController.swift in Sources */,
-				EF46122B213933A100A77D24 /* AppDelegate.swift in Sources */,
+				EFA8BB8A213BC3E200ED6B59 /* ViewController.swift in Sources */,
+				EFA8BB88213BC3E200ED6B59 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF461237213933A200A77D24 /* Sources */ = {
+		EFA8BB94213BC3E400ED6B59 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF461240213933A200A77D24 /* Hi_WOLDTests.swift in Sources */,
+				EFA8BB9D213BC3E400ED6B59 /* Hi_WorldTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EF461242213933A200A77D24 /* Sources */ = {
+		EFA8BB9F213BC3E400ED6B59 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF46124B213933A200A77D24 /* Hi_WOLDUITests.swift in Sources */,
+				EFA8BBA8213BC3E400ED6B59 /* Hi_WorldUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		EF46123D213933A200A77D24 /* PBXTargetDependency */ = {
+		EFA8BB9A213BC3E400ED6B59 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EF461226213933A100A77D24 /* Hi WOLD */;
-			targetProxy = EF46123C213933A200A77D24 /* PBXContainerItemProxy */;
+			target = EFA8BB83213BC3E200ED6B59 /* Hi World */;
+			targetProxy = EFA8BB99213BC3E400ED6B59 /* PBXContainerItemProxy */;
 		};
-		EF461248213933A200A77D24 /* PBXTargetDependency */ = {
+		EFA8BBA5213BC3E400ED6B59 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EF461226213933A100A77D24 /* Hi WOLD */;
-			targetProxy = EF461247213933A200A77D24 /* PBXContainerItemProxy */;
+			target = EFA8BB83213BC3E200ED6B59 /* Hi World */;
+			targetProxy = EFA8BBA4213BC3E400ED6B59 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		EF46122E213933A100A77D24 /* Main.storyboard */ = {
+		EFA8BB8B213BC3E200ED6B59 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EF46122F213933A100A77D24 /* Base */,
+				EFA8BB8C213BC3E200ED6B59 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		EF461233213933A200A77D24 /* LaunchScreen.storyboard */ = {
+		EFA8BB90213BC3E400ED6B59 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EF461234213933A200A77D24 /* Base */,
+				EFA8BB91213BC3E400ED6B59 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -312,7 +312,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		EF46124D213933A200A77D24 /* Debug */ = {
+		EFA8BBAA213BC3E400ED6B59 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -372,7 +372,7 @@
 			};
 			name = Debug;
 		};
-		EF46124E213933A200A77D24 /* Release */ = {
+		EFA8BBAB213BC3E400ED6B59 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -426,160 +426,164 @@
 			};
 			name = Release;
 		};
-		EF461250213933A200A77D24 /* Debug */ = {
+		EFA8BBAD213BC3E400ED6B59 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C2DJ792M98;
-				INFOPLIST_FILE = "Hi WOLD/Info.plist";
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "Hi World/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WOLD";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-World";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		EF461251213933A200A77D24 /* Release */ = {
+		EFA8BBAE213BC3E400ED6B59 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C2DJ792M98;
-				INFOPLIST_FILE = "Hi WOLD/Info.plist";
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "Hi World/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WOLD";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-World";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		EF461253213933A200A77D24 /* Debug */ = {
+		EFA8BBB0213BC3E400ED6B59 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Hi WOLDTests/Info.plist";
+				INFOPLIST_FILE = "Hi WorldTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WOLDTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WorldTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hi WOLD.app/Hi WOLD";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hi World.app/Hi World";
 			};
 			name = Debug;
 		};
-		EF461254213933A200A77D24 /* Release */ = {
+		EFA8BBB1213BC3E400ED6B59 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Hi WOLDTests/Info.plist";
+				INFOPLIST_FILE = "Hi WorldTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WOLDTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WorldTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hi WOLD.app/Hi WOLD";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hi World.app/Hi World";
 			};
 			name = Release;
 		};
-		EF461256213933A200A77D24 /* Debug */ = {
+		EFA8BBB3213BC3E400ED6B59 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Hi WOLDUITests/Info.plist";
+				INFOPLIST_FILE = "Hi WorldUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WOLDUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WorldUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Hi WOLD";
+				TEST_TARGET_NAME = "Hi World";
 			};
 			name = Debug;
 		};
-		EF461257213933A200A77D24 /* Release */ = {
+		EFA8BBB4213BC3E400ED6B59 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Hi WOLDUITests/Info.plist";
+				INFOPLIST_FILE = "Hi WorldUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WOLDUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.techacademy.tatsuo.sugimoto.Hi-WorldUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Hi WOLD";
+				TEST_TARGET_NAME = "Hi World";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EF461222213933A100A77D24 /* Build configuration list for PBXProject "Hi WOLD" */ = {
+		EFA8BB7F213BC3E200ED6B59 /* Build configuration list for PBXProject "Hi World" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EF46124D213933A200A77D24 /* Debug */,
-				EF46124E213933A200A77D24 /* Release */,
+				EFA8BBAA213BC3E400ED6B59 /* Debug */,
+				EFA8BBAB213BC3E400ED6B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EF46124F213933A200A77D24 /* Build configuration list for PBXNativeTarget "Hi WOLD" */ = {
+		EFA8BBAC213BC3E400ED6B59 /* Build configuration list for PBXNativeTarget "Hi World" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EF461250213933A200A77D24 /* Debug */,
-				EF461251213933A200A77D24 /* Release */,
+				EFA8BBAD213BC3E400ED6B59 /* Debug */,
+				EFA8BBAE213BC3E400ED6B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EF461252213933A200A77D24 /* Build configuration list for PBXNativeTarget "Hi WOLDTests" */ = {
+		EFA8BBAF213BC3E400ED6B59 /* Build configuration list for PBXNativeTarget "Hi WorldTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EF461253213933A200A77D24 /* Debug */,
-				EF461254213933A200A77D24 /* Release */,
+				EFA8BBB0213BC3E400ED6B59 /* Debug */,
+				EFA8BBB1213BC3E400ED6B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EF461255213933A200A77D24 /* Build configuration list for PBXNativeTarget "Hi WOLDUITests" */ = {
+		EFA8BBB2213BC3E400ED6B59 /* Build configuration list for PBXNativeTarget "Hi WorldUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EF461256213933A200A77D24 /* Debug */,
-				EF461257213933A200A77D24 /* Release */,
+				EFA8BBB3213BC3E400ED6B59 /* Debug */,
+				EFA8BBB4213BC3E400ED6B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = EF46121F213933A100A77D24 /* Project object */;
+	rootObject = EFA8BB7C213BC3E200ED6B59 /* Project object */;
 }

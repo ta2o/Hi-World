@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Hi WOLD
 //
-//  Created by たつ on 2018/08/31.
+//  Created by たつ on 2018/09/01.
 //  Copyright © 2018年 tatsuo sugimoto. All rights reserved.
 //
 
